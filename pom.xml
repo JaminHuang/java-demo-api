@@ -16,16 +16,21 @@
     <modules>
         <module>demo-eureka</module>
         <module>demo-client</module>
+        <module>demo-api-sdk</module>
     </modules>
 
     <properties>
+        <!-- demo-api -->
         <client.module.version>1.0.0</client.module.version>
         <eureka.module.version>1.0.0</eureka.module.version>
+        <sdk.module.version>1.0.0</sdk.module.version>
         <api.mobule.version>1.0.0</api.mobule.version>
 
+        <!-- demo-parent -->
         <demo-rpc.module.version>1.0.0</demo-rpc.module.version>
         <demo-sdk.module.version>1.0.0</demo-sdk.module.version>
 
+        <!-- demo-core -->
         <demo-core-user.module.version>1.0.0</demo-core-user.module.version>
     </properties>
 
