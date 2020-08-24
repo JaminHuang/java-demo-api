@@ -15,9 +15,11 @@
 
     <modules>
         <module>demo-eureka</module>
+        <module>demo-client</module>
     </modules>
 
     <properties>
+        <client.module.version>1.0.0</client.module.version>
         <eureka.module.version>1.0.0</eureka.module.version>
         <api.mobule.version>1.0.0</api.mobule.version>
 
