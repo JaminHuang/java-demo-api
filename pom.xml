@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.demo</groupId>
+        <artifactId>demo-parent</artifactId>
+        <version>1.0.0</version>
+        <relativePath/>
+    </parent>
+
+    <artifactId>demo-api</artifactId>
+    <version>${api.mobule.version}</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>demo-eureka</module>
+    </modules>
+
+    <properties>
+        <eureka.module.version>1.0.0</eureka.module.version>
+        <api.mobule.version>1.0.0</api.mobule.version>
+
+        <demo-rpc.module.version>1.0.0</demo-rpc.module.version>
+        <demo-sdk.module.version>1.0.0</demo-sdk.module.version>
+
+        <demo-core-user.module.version>1.0.0</demo-core-user.module.version>
+    </properties>
+
+</project>
