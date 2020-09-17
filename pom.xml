@@ -31,6 +31,7 @@
         <!-- demo-parent -->
         <demo-rpc.module.version>1.0.0</demo-rpc.module.version>
         <demo-sdk.module.version>1.0.0</demo-sdk.module.version>
+        <demo-timer.module.version>1.0.0</demo-timer.module.version>
 
         <!-- demo-core -->
         <demo-core-user.module.version>1.0.0</demo-core-user.module.version>
