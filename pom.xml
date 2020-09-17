@@ -17,6 +17,7 @@
         <module>demo-eureka</module>
         <module>demo-client</module>
         <module>demo-api-sdk</module>
+        <module>demo-api-timer</module>
     </modules>
 
     <properties>
