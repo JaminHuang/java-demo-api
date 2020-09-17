@@ -25,6 +25,7 @@
         <client.module.version>1.0.0</client.module.version>
         <eureka.module.version>1.0.0</eureka.module.version>
         <sdk.module.version>1.0.0</sdk.module.version>
+        <timer.module.verison>1.0.0</timer.module.verison>
         <api.mobule.version>1.0.0</api.mobule.version>
 
         <!-- demo-parent -->
