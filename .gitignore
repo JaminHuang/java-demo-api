@@ -55,3 +55,8 @@ target/
 */target
 *.iml
 log/
+
+# module
+demo-api-client/
+demo-api-sdk/
+demo-api-timer/
